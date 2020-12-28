@@ -8,5 +8,5 @@ banner:
   content: "[Draconic] Immer lernend"
   button:
     enable: true
-    label: Explore Us
+    label: Erfahre mehr
     link: "#services"
