@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: https://drive.google.com/file/d/1xIHvfT40P5HbCyjMWYFF4Gliz20-WW5k/view?usp=sharing
-  bg_image: https://drive.google.com/file/d/1xIHvfT40P5HbCyjMWYFF4Gliz20-WW5k/view?usp=sharing
+  bg_image_webp: "/images/banner.png"
+  bg_image: "/images/banner.png"
   icon: ''
   title: Experience the new reality
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
