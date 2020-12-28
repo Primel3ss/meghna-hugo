@@ -1,12 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: https://drive.google.com/file/d/1xIHvfT40P5HbCyjMWYFF4Gliz20-WW5k/view?usp=sharing
+  bg_image: https://drive.google.com/file/d/1xIHvfT40P5HbCyjMWYFF4Gliz20-WW5k/view?usp=sharing
+  icon: ''
+  title: Experience the new reality
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
+    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
