@@ -1,5 +1,5 @@
 baseURL = "https://ashj-enkil.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -10,8 +10,8 @@ title = "Ashj Enkil"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "de-de"
+languageName = "DE"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
