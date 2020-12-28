@@ -4,8 +4,9 @@ banner:
   bg_image_webp: "/images/banner.png"
   bg_image: "/images/banner.png"
   icon: ''
-  title: Ashj Enkil - Blackmoore
-  content: "[Draconic] - Immer lernend"
+  title: Experience the new reality
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
+    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
     enable: true
     label: Explore Us
