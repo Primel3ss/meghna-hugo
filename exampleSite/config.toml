@@ -10,8 +10,8 @@ title = "Ashj Enkil"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "de-de"
-languageName = "DE"
+languageCode = "en-us"
+languageName = "EN"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
