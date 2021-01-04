@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/banner_320.png"
+  bg_image_webp: "/images/banner.png"
   bg_image: "/images/banner_320.png"
   icon: ''
   title: Ashj Enkil - Blackmoore
