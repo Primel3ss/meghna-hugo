@@ -2,10 +2,10 @@
 skill:
   enable: true
   title: Aktueller Progress
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  subtitle: Unser Progress der aktuellen und vergangener Raids.
+  content: Unser Ziel ist Mythisch Clear vor Release des neuen Contents. Da die Gilde
+    zu BFA erst frisch gegründet wurde, haben wir es dort leider noch nicht geschafft.
+    Aber wir sind guter Dinge für Shadowlands.
   image: images/about/company-growth.webp
   skill_item:
   - name: Schloss Nathria Mythisch 0/10
