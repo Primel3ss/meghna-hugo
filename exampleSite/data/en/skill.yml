@@ -10,8 +10,8 @@ skill:
   skill_item:
   - name: Schloss Nathria Mythisch
     percent: 0%
-  - name: Analysis
-    percent: 70%
+  - name: Schloss Nathria Heroisch
+    percent: 90%
   - name: Design
     percent: 80%
   - name: IOS Development
