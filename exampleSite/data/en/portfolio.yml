@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Bildergalerie
+  title: Unsere Bilder
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
